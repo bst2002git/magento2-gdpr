@@ -20,7 +20,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 /**
  * Class EraseCommand
  */
-final class EraseCommand extends Command
+class EraseCommand extends Command
 {
     /**#@+
      * Input Variables Names
